@@ -15,10 +15,6 @@ It features a simple and clean interface where users can enter text, set a secre
 
 ---
 
-## 🖥️ Screenshot
-> _(Add a screenshot of your application here after running it)_
-
----
 
 ## 📂 Requirements
 Before running the project, make sure you have:
